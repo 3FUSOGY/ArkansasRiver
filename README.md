@@ -41,7 +41,7 @@ Alertnatively
 Without requiring a Java IDE, download Gradle 2.12, configure your 
 GRADLE_HOME environment variable, add %GRADLE_HOME%\bin to your PATH and run $gradle -v.
 
-# Implemented Features
+# Features
 <table>
   <tr>
     <th>Feature</th>
