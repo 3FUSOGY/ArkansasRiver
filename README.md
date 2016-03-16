@@ -27,8 +27,9 @@ Version 1.0 - March 16, 2016
 
 
 # Quick Start
-Pre-requisite: install brew
-brew install gradle to run directly from the .zip distribution on the command line; this will install 
+Pre-requisite: install brew.
+
+$brew install gradle to run directly from the .zip distribution on the command line; this will install 
 Gradle 2.12 Released
 
 # Upgrading Gradle
@@ -63,14 +64,6 @@ GRADLE_HOME environment variable, add %GRADLE_HOME%\bin to your PATH and run $gr
     <th>Run Options</th>
     <td>Some options for running the tests: via the Gradle GUI, via your IDE Gradle
     plugin, or via Gradle command line.</td>
-  </tr>
-</table>
-
-#Features
-<table>
-  <tr>
-    <th>Feature</th>
-    <th>Description</th>
   </tr>
   <tr>
     <th>Gradle Dependencies</th> <td> Full support of POM from repositories and replacement of previous.By using 
